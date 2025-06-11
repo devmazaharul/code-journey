@@ -24,3 +24,7 @@ hashClass.generate();         // Default: 5-character password
 hashClass.uppercase(8);      // Only uppercase characters
 hashClass.uuid();            // UUID format: xxxx-xxxx-xxxx-xxxx
 hashClass.custom(6, '@#$%'); // Custom source
+
+## ✅ small prblems
+###  2. remove duplicate item from array 
+###  2. find largest number in the array
